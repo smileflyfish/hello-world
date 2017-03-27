@@ -1,9 +1,5 @@
 # hello-world
-Just another repository
 
+hello hello hello
 
-wo hao nan shou
-
-hha b
-buzhidao shuosnm 
 
